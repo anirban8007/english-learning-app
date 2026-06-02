@@ -19,7 +19,7 @@ type Message = {
 };
 
 // ─── Constants ────────────────────────────────────────────────────────────────
-const GROQ_API_KEY = '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';
+const GROQ_API_KEY = 'API_KEY';
 const GROQ_MODEL   = 'llama-3.1-8b-instant';
 
 // ─── All 13 Modes Config ──────────────────────────────────────────────────────
